@@ -1,0 +1,2305 @@
+Starting scan of 127.0.0.1...
+Scanning ports 1-500
+
+Port 135 OPEN - Microsoft RPC
+Port 445 OPEN - Microsoft SMB
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:51
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.
+
+=============================================
+SCAN SUMMARY
+=============================================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:42:52
+=============================================
+
+SECURITY ANALYSIS
+=============================================
+
+Port 135 - Microsoft RPC
+Purpose: Used by Windows Remote Procedure Call services.
+Recommendation: Restrict access to trusted networks and use firewall rules.
+
+Port 445 - Microsoft SMB
+Purpose: Used for Windows file and printer sharing.
+Recommendation: Do not expose SMB directly to untrusted networks.
+
+Scan completed successfully.

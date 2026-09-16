@@ -1,0 +1,16 @@
+Starting scan of 127.0.0.1...
+Scanning ports 1-500
+
+Port 135 OPEN - Microsoft RPC
+Port 445 OPEN - Microsoft SMB
+
+==============================
+SCAN SUMMARY
+==============================
+Target: 127.0.0.1
+Port Range: 1-500
+Ports Scanned: 500
+Open Ports: 2
+Date: 2026-09-16 11:35:31
+==============================
+Scan completed successfully.
